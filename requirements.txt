@@ -1,9 +1,10 @@
+pyrogram==2.0.106
 aiofiles
 Pillow
 humanize
 hachoir
 motor
-pyrofork==2.3.45
+pyrofork
 TgCrypto
 dnspython
 aiohttp
